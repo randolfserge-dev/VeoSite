@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+  <symbol id="arrow-up" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+  <symbol id="heart" viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></symbol>
+  <symbol id="brain" viewBox="0 0 24 24"><path d="M12 18V5a3 3 0 0 0-5.8-1A4 4 0 0 0 3 10a4 4 0 0 0 1.5 7.5A4 4 0 0 0 12 18Zm0 0V5a3 3 0 0 1 5.8-1A4 4 0 0 1 21 10a4 4 0 0 1-1.5 7.5A4 4 0 0 1 12 18Z"/><path d="M6 4c0 2 1 3 2 3m-5 3c2 0 3 1 3 3m-1.5 4.5C5 16 7 15 8 16m10-12c0 2-1 3-2 3m5 3c-2 0-3 1-3 3m1.5 4.5C19 16 17 15 16 16"/></symbol>
+  <symbol id="sprout" viewBox="0 0 24 24"><path d="M12 21v-9M12 15C4 16 2 11 3 5c6-1 11 2 9 10Zm0 2c8 1 10-4 9-10-6-1-10 3-9 10Z"/></symbol>
+  <symbol id="star" viewBox="0 0 24 24"><path d="m12 2.5 3 6.1 6.7 1-4.9 4.7 1.2 6.7-6-3.2L6 21l1.2-6.7-4.9-4.7 6.7-1L12 2.5Z"/></symbol>
+  <symbol id="people" viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6m2 4a5 5 0 0 1 3 4.6V21"/></symbol>
+  <symbol id="book" viewBox="0 0 24 24"><path d="M12 6C9 3 5 3 2 4v15c3-1 7-1 10 2m0-15c3-3 7-3 10-2v15c-3-1-7-1-10 2V6Z"/></symbol>
+  <symbol id="pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+  <symbol id="screen" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8m-4-4v4"/></symbol>
+  <symbol id="check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+  <symbol id="play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7V5Z"/></symbol>
+  <symbol id="video" viewBox="0 0 24 24"><rect x="2" y="5" width="14" height="14" rx="3"/><path d="m16 10 6-4v12l-6-4"/></symbol>
+  <symbol id="instagram" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/></symbol>
+  <symbol id="chat" viewBox="0 0 24 24"><path d="M21 11.5a9 9 0 0 1-9 9 10 10 0 0 1-4-.9L3 21l1.4-4.5A9 9 0 1 1 21 11.5Z"/><path d="M8 10h.01M12 10h.01M16 10h.01"/></symbol>
+  <symbol id="close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+  <symbol id="spark" viewBox="0 0 24 24"><path d="m12 2 2.7 7.3L22 12l-7.3 2.7L12 22l-2.7-7.3L2 12l7.3-2.7L12 2Z"/></symbol>
+  <symbol id="whatsapp" viewBox="0 0 24 24"><path d="M20.5 3.5A11.8 11.8 0 0 0 12 0C5.4 0 .1 5.3.1 11.9c0 2.1.6 4.2 1.6 6L0 24l6.3-1.7a12 12 0 0 0 5.7 1.5A11.9 11.9 0 0 0 20.5 3.5ZM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.7-.3-.4a9.8 9.8 0 0 1-1.5-5.2A9.9 9.9 0 0 1 12 2a9.9 9.9 0 1 1 0 19.8Zm5.4-7.4-2-.9c-.3-.1-.5-.1-.7.2l-.9 1.1c-.2.2-.3.3-.6.1-1.8-.9-3-2-3.9-3.5-.3-.4.3-.4.9-1.6.1-.2 0-.4 0-.5L9.3 7c-.2-.6-.5-.5-.7-.5H8c-.2 0-.5.1-.8.4S6.2 8 6.2 9.4s1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5 1.9.8 2.7.9 3.7.8.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.2-.3-.3-.6-.5Z" fill="currentColor" stroke="none"/></symbol>
+</svg>
